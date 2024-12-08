@@ -1,0 +1,14 @@
+/Users/enicklas/adventOfCode2024/adventOfCode5/bin/Debug/net9.0/adventOfCode5
+/Users/enicklas/adventOfCode2024/adventOfCode5/bin/Debug/net9.0/adventOfCode5.deps.json
+/Users/enicklas/adventOfCode2024/adventOfCode5/bin/Debug/net9.0/adventOfCode5.runtimeconfig.json
+/Users/enicklas/adventOfCode2024/adventOfCode5/bin/Debug/net9.0/adventOfCode5.dll
+/Users/enicklas/adventOfCode2024/adventOfCode5/bin/Debug/net9.0/adventOfCode5.pdb
+/Users/enicklas/adventOfCode2024/adventOfCode5/obj/Debug/net9.0/adventOfCode5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enicklas/adventOfCode2024/adventOfCode5/obj/Debug/net9.0/adventOfCode5.AssemblyInfoInputs.cache
+/Users/enicklas/adventOfCode2024/adventOfCode5/obj/Debug/net9.0/adventOfCode5.AssemblyInfo.cs
+/Users/enicklas/adventOfCode2024/adventOfCode5/obj/Debug/net9.0/adventOfCode5.csproj.CoreCompileInputs.cache
+/Users/enicklas/adventOfCode2024/adventOfCode5/obj/Debug/net9.0/adventOfCode5.dll
+/Users/enicklas/adventOfCode2024/adventOfCode5/obj/Debug/net9.0/refint/adventOfCode5.dll
+/Users/enicklas/adventOfCode2024/adventOfCode5/obj/Debug/net9.0/adventOfCode5.pdb
+/Users/enicklas/adventOfCode2024/adventOfCode5/obj/Debug/net9.0/adventOfCode5.genruntimeconfig.cache
+/Users/enicklas/adventOfCode2024/adventOfCode5/obj/Debug/net9.0/ref/adventOfCode5.dll

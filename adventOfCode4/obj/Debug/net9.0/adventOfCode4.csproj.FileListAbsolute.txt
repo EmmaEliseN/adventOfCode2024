@@ -1,0 +1,14 @@
+/Users/enicklas/adventOfCode2024/adventOfCode4/bin/Debug/net9.0/adventOfCode4
+/Users/enicklas/adventOfCode2024/adventOfCode4/bin/Debug/net9.0/adventOfCode4.deps.json
+/Users/enicklas/adventOfCode2024/adventOfCode4/bin/Debug/net9.0/adventOfCode4.runtimeconfig.json
+/Users/enicklas/adventOfCode2024/adventOfCode4/bin/Debug/net9.0/adventOfCode4.dll
+/Users/enicklas/adventOfCode2024/adventOfCode4/bin/Debug/net9.0/adventOfCode4.pdb
+/Users/enicklas/adventOfCode2024/adventOfCode4/obj/Debug/net9.0/adventOfCode4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enicklas/adventOfCode2024/adventOfCode4/obj/Debug/net9.0/adventOfCode4.AssemblyInfoInputs.cache
+/Users/enicklas/adventOfCode2024/adventOfCode4/obj/Debug/net9.0/adventOfCode4.AssemblyInfo.cs
+/Users/enicklas/adventOfCode2024/adventOfCode4/obj/Debug/net9.0/adventOfCode4.csproj.CoreCompileInputs.cache
+/Users/enicklas/adventOfCode2024/adventOfCode4/obj/Debug/net9.0/adventOfCode4.dll
+/Users/enicklas/adventOfCode2024/adventOfCode4/obj/Debug/net9.0/refint/adventOfCode4.dll
+/Users/enicklas/adventOfCode2024/adventOfCode4/obj/Debug/net9.0/adventOfCode4.pdb
+/Users/enicklas/adventOfCode2024/adventOfCode4/obj/Debug/net9.0/adventOfCode4.genruntimeconfig.cache
+/Users/enicklas/adventOfCode2024/adventOfCode4/obj/Debug/net9.0/ref/adventOfCode4.dll
